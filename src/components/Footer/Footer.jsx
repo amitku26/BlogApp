@@ -10,7 +10,7 @@ function Footer() {
                         <div className="flex h-full flex-col justify-between">                           
                             <div>
                                 <p className="text-sm text-white">
-                                    &copy; Copyright 2023. All Rights Reserved by @rathoraryann.
+                                    &copy; Copyright 2024. All Rights Reserved by @amitkumar.
                                 </p>
                             </div>
                         </div>
